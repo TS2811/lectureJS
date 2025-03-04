@@ -35,6 +35,6 @@ let h;
 
 console.log(e ?? 'a'); //a
 console.log(f ?? 'a'); //20
-console.log(h ?? 'a'); //aF
+console.log(h ?? 'a'); //a
 
 
